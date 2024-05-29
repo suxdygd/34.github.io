@@ -1,4 +1,4 @@
 function sup() {
-  window.location.href = 'patreon.com/SuxWebPatSupport';
+  window.location.href = 'https://patreon.com/SuxWebPatSupport';
 
 }
